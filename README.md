@@ -4,22 +4,15 @@ This repo contains several documents and links related to the operation of the [
 
 ## Governance
 
-* The [Bylaws](https://github.com/RConsortium/charter/blob/master/R-Consortium-Bylaws-1157174-v2-Approved-11.20.19.pdf) under which R Consortium operates
-* Foundation operations support and [service desk](https://github.com/RConsoritum/foundation/issues) 
-* The [membership](https://github.com/RConsortium/charter/blob/master/R-Consortium-Membership-Agreement-1157181-v2-Approved-11.20.19.pdf) agreement
-* The ISC [Code of Conduct](https://github.com/RConsortium/isc/blob/master/CODE_OF_CONDUCT.md) 
+* The [Bylaws](https://bylaws.r-consortium.org) under which R Consortium operates
+* The [membership](https://join.r-consortium.org) agreement
+* The ISC [Code of Conduct](https://github.com/RConsortium/isc/blob/HEAD/CODE_OF_CONDUCT.md) 
 
 ## Project Guidance
 
 * [Copyright](copyright.md) notice recommendations
 * [Project Website guidelines](project_website_guidelines.md) for mentioning companies while maintaining neutrality
 * [Telemetry and Data Collection Policy](https://www.linuxfoundation.org/telemetry-data-policy/)
-* @TODO - [Whitelist policy](#) for which licenses are acceptable in upstream dependencies without requiring an explicit vote of the governing board
-
-## Community recommendations
-
-@TODO
-
 
 ## Other content
 
